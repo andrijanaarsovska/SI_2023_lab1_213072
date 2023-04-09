@@ -1,0 +1,25 @@
+
+
+commit ba23d5717ee96465c50739e585f70382a2eca31d (origin/bug2, bug2)
+Author: andrijanaarsovska <andrijanaarsovska147@gmail.com>
+Date:   Sun Apr 9 20:29:26 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 4a2f5ae16310dc7243109518dd23c7c7a27af8a8 (origin/bug1, bug1)
+Author: andrijanaarsovska <andrijanaarsovska147@gmail.com>
+Date:   Sun Apr 9 20:28:05 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 893d17193abfca549ae97a643ee1198640fa0621
+Author: andrijanaarsovska <andrijanaarsovska147@gmail.com>
+Date:   Sun Apr 9 20:25:54 2023 +0200
+
+    Add java class
+
+commit 471251170c842a5ec7b6d2e9130bb388e73bae32
+Author: andrijanaarsovska <andrijanaarsovska147@gmail.com>
+Date:   Sun Apr 9 20:25:03 2023 +0200
+
+    Initial commit
